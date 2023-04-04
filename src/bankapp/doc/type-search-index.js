@@ -1,1 +1,0 @@
-typeSearchIndex = [{"p":"bankapp.model","l":"Account"},{"l":"All Classes","url":"allclasses-index.html"},{"p":"bankapp.model","l":"Holder"},{"p":"bankapp.model","l":"JointAccount"},{"p":"bankapp.model","l":"OverdraftAccount"}]
